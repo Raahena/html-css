@@ -1,0 +1,56 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff8fe;
+}
+
+h1 {
+    color: #333;
+    margin: 20px 0;
+    text-align: center;
+}
+
+h2 {
+    color: #555;
+    margin: 15px 0;
+}
+
+p {
+    color: #514e4e;
+    line-height: 1.6;
+}
+
+ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #c75bf2;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+/* Add more styles as needed */
+
+/* Example: Styling links on hover */
+a:hover {
+    text-decoration: underline;
+}
